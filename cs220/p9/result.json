@@ -1,0 +1,155 @@
+{
+  "score": 75.0,
+  "tests": [
+    {
+      "test": 1,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 2,
+      "result": "missing 2 entries in list, such as: 'data/review3.json'",
+      "weight": 1
+    },
+    {
+      "test": 3,
+      "result": "missing 1 entries in list, such as: 'data/review3.json'",
+      "weight": 1
+    },
+    {
+      "test": 4,
+      "result": "missing 2 entries in list, such as: 'data/review3.json'",
+      "weight": 1
+    },
+    {
+      "test": 5,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 6,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 7,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 8,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 9,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 10,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 11,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 12,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 13,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 14,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 15,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 16,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 17,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 18,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 19,
+      "result": "PASS",
+      "weight": 1
+    },
+    {
+      "test": 20,
+      "result": "found value 4.507258399004562 for key Fire Tablet, 7 Display, Wi-Fi, 8 GB - Includes Special Offers, Magenta but expected 4.506039150354019",
+      "weight": 1
+    },
+    {
+      "test": 21,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 22,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 23,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 24,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 25,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 26,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 27,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 28,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 29,
+      "result": "not found",
+      "weight": 1
+    },
+    {
+      "test": 30,
+      "result": "not found",
+      "weight": 1
+    }
+  ]
+}
